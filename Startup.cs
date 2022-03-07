@@ -16,7 +16,7 @@ namespace App
 {
     public class Startup
     {
-        //test
+        //test 2
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
